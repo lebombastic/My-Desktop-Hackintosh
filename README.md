@@ -39,3 +39,5 @@ SSDT.aml (main one) - Attached on the repo
 
 Currently 27-Nov-19 all files are updated in the repo
 
+All credit goes to those great developers, tonymacx86 - Rehabman, trs96, - /r/hackintosh devs - acidanthera on github
+
